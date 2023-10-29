@@ -1,4 +1,3 @@
--- ramazanemreosmanoglu
 -- https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem?isFullScreen=true
 
 hello_worlds :: Int -> [Char] -> [Char]
